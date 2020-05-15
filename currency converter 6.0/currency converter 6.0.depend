@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1586710481 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\admin.c
+
+1586713261 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\conditions1.c
+
+1585727218 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\continent.c
+
+1585241874 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\exit.c
+
+1586712069 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586713982 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\current_currency_rates.c
+
+1586713982 source:c:\users\risfa\desktop\new folder (2)\currency converter 5.0\currency converter 6.0\currency converter 6.0\rates.c
+
+1586710481 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\admin.c
+
+1586713261 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\conditions1.c
+
+1585727218 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\continent.c
+
+1586713982 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\current_currency_rates.c
+
+1585241874 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\exit.c
+
+1586712069 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586713982 source:c:\users\risfa\desktop\team xtmos\currency converter 6.0\rates.c
+
